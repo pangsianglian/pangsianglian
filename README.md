@@ -25,7 +25,17 @@ A deep learning model that classifies fruits into apples, bananas, oranges, or o
 
 ## 🎯 Career Goal
 
-To build scalable backend systems and automation pipelines in a cloud-native environment. Open to internships or junior developer roles in backend, cloud, or AI teams.
+I aspire to apply my finance-domain experience and technical training to build robust backend systems, intelligent automation pipelines, and scalable AI-driven applications.
+
+Currently open to internships or roles in:
+
+- Backend engineering
+
+- Cloud infrastructure and DevOps
+
+- Algorithm design / machine learning
+
+My goal is to contribute to impactful, data-intensive projects while continuously expanding my skills in algorithms, distributed systems, and AI technologies.
 
 ---
 
