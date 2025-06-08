@@ -18,7 +18,7 @@
 ### 🌐 [E-Commerce Web App (Java Spring Boot + Thymeleaf)]
 A full-stack shopping cart system with admin dashboard, user order tracking, product filtering, and secure checkout.
 
-### 🤖 [Fruit Image Classifier (PyTorch CNN)]
+### 🤖 [Fruit Image Classifier (PyTorch CNN)](https://github.com/pangsianglian/fruit_cnn)
 A deep learning model that classifies fruits into apples, bananas, oranges, or others using convolutional neural networks.
 
 ---
