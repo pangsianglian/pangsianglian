@@ -6,10 +6,10 @@
 
 ## 🚀 Skills
 
-- **Languages**: Java, Python, SQL
+- **Languages**: Python, SQL, Java
 - **Frameworks**: Spring Boot, React (learning), Thymeleaf
 - **Tools**: GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)
-- **Domains**: Backend Development, Cloud, Machine Learning (PyTorch), System Design
+- **Domains**: Machine Learning (PyTorch), Backend Development, Cloud, System Design
 
 ---
 
@@ -29,11 +29,12 @@ I aspire to apply my finance-domain experience and technical training to build r
 
 Currently open to internships or roles in:
 
+- Algorithm design / machine learning
+
 - Backend engineering
 
 - Cloud infrastructure and DevOps
 
-- Algorithm design / machine learning
 
 My goal is to contribute to impactful, data-intensive projects while continuously expanding my skills in algorithms, distributed systems, and AI technologies.
 
