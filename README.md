@@ -6,8 +6,8 @@
 
 ## 🚀 Skills
 
-- **Languages**: Python, SQL, Java
-- **Frameworks**: Spring Boot, React (learning), Thymeleaf
+- **Languages**: Python, SQL, Java, ASP.NET (learning)
+- **Frameworks**: Spring Boot, Thymeleaf, React (learning), Android Studio (Learning)
 - **Tools**: GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)
 - **Domains**: Machine Learning (PyTorch), Backend Development, Cloud, System Design
 
