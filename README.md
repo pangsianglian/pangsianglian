@@ -6,10 +6,10 @@
 
 ## 🚀 Skills
 
-- **Languages**: Python, SQL, Java, ASP.NET (learning)
-- **Frameworks**: Spring Boot, Thymeleaf, React (learning), Android Studio (Learning)
+- **Languages**: Python, SQL, Java, ASP.NET, Kotlin
+- **Frameworks**: Spring Boot, Thymeleaf, React, Android Studio, Dropwizard
 - **Tools**: GitHub, Git, Maven, Docker, CI/CD (GitHub Actions)
-- **Domains**: Machine Learning (PyTorch), Backend Development, Cloud, System Design
+- **Domains**: Finance, Machine Learning (PyTorch), Backend Development, Cloud, System Design
 
 ---
 
@@ -21,6 +21,9 @@ A full-stack shopping cart system with admin dashboard, user order tracking, pro
 ### 🤖 [Fruit Image Classifier (PyTorch CNN)](https://github.com/pangsianglian/fruit_cnn)
 A deep learning model that classifies fruits into apples, bananas, oranges, or others using convolutional neural networks.
 
+### [Minimum Coin Exchange Web App (Java Dropwizard + React)](https://github.com/pangsianglian/2025_PangSiangLian)
+A full-stack Coin Exchange application designed to calculate the minimum number of coins required for specified monetary amount.
+
 ---
 
 ## 🎯 Career Goal
@@ -31,9 +34,9 @@ Currently open to internships or roles in:
 
 - Algorithm design / machine learning
 
-- Backend engineering
-
 - Cloud infrastructure and DevOps
+
+- Backend engineering
 
 
 My goal is to contribute to impactful, data-intensive projects while continuously expanding my skills in algorithms, distributed systems, and AI technologies.
