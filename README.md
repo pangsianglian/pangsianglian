@@ -45,7 +45,7 @@ My goal is to contribute to impactful, data-intensive projects while continuousl
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/angel-pang-siang-lian-a4310b166/
+- LinkedIn: https://www.linkedin.com/in/pangsianglian
 - Email: angelpsl@ymail.com
 
 
