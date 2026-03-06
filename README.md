@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Angel Pang (pangsianglian)
 
 ### **Finance Transformation Lead | Systems Architect | Data Strategist**
-**Bridging 14 Years of Senior Finance Leadership with Modern Engineering**
+**Bridging 15 Years of Senior Finance Leadership with Modern Engineering**
 
 I am a hybrid professional specializing in the intersection of **Enterprise Finance (SATS/Group FP&A)** and **Technical Systems Analysis (NUS-ISS)**. I build high-impact automation engines, predictive models, and scalable backend architectures that turn complex financial logic into streamlined digital workflows.
 
