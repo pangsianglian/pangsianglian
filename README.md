@@ -174,7 +174,7 @@ I am especially interested in roles where I can lead or support:
 - **Google Data Analytics Professional Certificate**
 - **Google Project Management Professional Certificate**
 - **SCTP Associate Data Analyst**
-- **ACCA Strategic Professional progress:** SBL and SBR completed; AFM/APM in progress
+- **ACCA Strategic Professional progress:** SBL and SBR completed
 
 ---
 
